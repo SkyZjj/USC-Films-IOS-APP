@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.2)
+  - Kingfisher (6.3.0)
+  - SwiftyJSON (4.3.0)
+  - youtube-ios-player-helper (1.0.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Kingfisher (~> 6.0)
+  - SwiftyJSON (~> 4.0)
+  - youtube-ios-player-helper (~> 1.0.3)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - SwiftyJSON
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  youtube-ios-player-helper: 0185c57db23c80d63d6ca11251d110abb8a4ca61
+
+PODFILE CHECKSUM: d8c531e0d961663304f5de309c9980d49e59dc63
+
+COCOAPODS: 1.10.1
